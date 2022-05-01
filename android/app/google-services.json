@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "724127683384",
-    "project_id": "sdgp-ui-a920e",
-    "storage_bucket": "sdgp-ui-a920e.appspot.com"
+    "project_number": "188627944864",
+    "project_id": "posture-io",
+    "storage_bucket": "posture-io.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:724127683384:android:ade6c7c4868756cde167cd",
+        "mobilesdk_app_id": "1:188627944864:android:af0a3b7b9f88cae08d50c5",
         "android_client_info": {
           "package_name": "com.example.sdgp_ui"
         }
       },
       "oauth_client": [
         {
-          "client_id": "724127683384-9c07k82s3gdos3v7hedf30m7ucd0ajmu.apps.googleusercontent.com",
+          "client_id": "188627944864-epk22b2lesv9hrp84pfe85sa1lcmn98v.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAFJ-ZTi80PKIHvi0HxTDaqG--n4mA0g50"
+          "current_key": "AIzaSyD2kAOMApiLWo71QQdggseb37AXBc6il0M"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "724127683384-9c07k82s3gdos3v7hedf30m7ucd0ajmu.apps.googleusercontent.com",
+              "client_id": "188627944864-epk22b2lesv9hrp84pfe85sa1lcmn98v.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
